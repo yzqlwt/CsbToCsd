@@ -1,0 +1,114 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CsbParser.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         ]
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         ]
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\main.cpp(54,17): warning C4244:  “=”: 从“std::streamoff”转换到“long”，可能丢失数据
+  ButtonSerializer.cpp
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\main.cpp(88,31): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         ]
+  ImageViewSerializer.cpp
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         ]
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         ]
+  NodeSerializer.cpp
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         ]
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         ]
+  ObjectFactory.cpp
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         ]
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         ]
+  pugixml.cpp
+  tinyxml2.cpp
+  PanelSerializer.cpp
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         ]
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         ]
+  SingleNodeSerializer.cpp
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         ]
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         ]
+  SpriteSerializer.cpp
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         ]
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         ]
+  TextSerializer.cpp
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         ]
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1522,39): warning C4305:         ]
+  正在生成代码...
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:  “参数”: 从“double”到“T”截断
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         with
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         [
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:             T=float
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\CSParseBinary_generated.h(1569,63): warning C4305:         ]
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\Serializer\SpriteSerializer.h(29): warning C4172:  返回局部变量或临时变量的地址: absNode
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\Serializer\NodeSerializer.h(34): warning C4172:  返回局部变量或临时变量的地址: absNode
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\Serializer\SingleNodeSerializer.h(29): warning C4172:  返回局部变量或临时变量的地址: absNode
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\Serializer\ImageViewSerializer.h(29): warning C4172:  返回局部变量或临时变量的地址: absNode
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\Serializer\SpriteSerializer.h(71): warning C4172:  返回局部变量或临时变量的地址: node
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\Serializer\SpriteSerializer.h(61): warning C4172:  返回局部变量或临时变量的地址: node
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\Serializer\ISerializer.h(114): warning C4172:  返回局部变量或临时变量的地址: node
+C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\CsbParser\Serializer\ImageViewSerializer.h(67): warning C4172:  返回局部变量或临时变量的地址: node
+  CsbParser.vcxproj -> C:\Users\yzqlwt\Documents\WorkSpace\Csb2Csd\Debug\Csb2Csd.exe
